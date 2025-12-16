@@ -6,7 +6,7 @@ The focus was on clean UI, responsiveness, and smooth user interactions based on
 ---
 
 ## 🔗 Live Demo
-(Will be updated after deployment on Vercel)
+(https://gtg-perfumes-kappa.vercel.app/)
 
 ---
 
@@ -60,7 +60,7 @@ Tested using Chrome DevTools and real mobile viewport sizes.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/gtg-perfumes.git
+   git clone (https://github.com/godwinm8/gtg-perfumes.git)
 
 2. Open the project folder
 
